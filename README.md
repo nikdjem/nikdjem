@@ -28,7 +28,6 @@ I'm a passionate junior developer with a love for all things **WordPress**—fro
 ### 🗂 Other Projects
 
 - [Pricing Panel](https://github.com/nikdjem/pricing_panel)
-- [Curriculum](https://github.com/nikdjem/curriculum)
 
 ---
 
