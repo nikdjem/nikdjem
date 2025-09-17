@@ -9,7 +9,7 @@
 I'm a passionate junior developer with a love for all things **WordPress**—from plugins to themes and everything in between. Whether it's crafting responsive layouts or exploring the latest in AI agents, I'm always learning and building.
 
 - **🔧 Tech Stack:** WordPress, PHP, JavaScript, CSS, HTML
-- **🤖 Favorite Tools:**VS Code, Git, Cursor, Claude, ChatGPT
+- **🤖 Favorite Tools:** VS Code, Git, Cursor, Claude, ChatGPT
 - **🌊 Hobbies:** Sailing and exploring the open waters
 - **🤝 Volunteer:** WordPress contributor & community supporter
 
