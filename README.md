@@ -20,7 +20,7 @@ I'm a passionate junior developer with a love for all things **WordPress**—fro
 - [**TablePress Responsive**](https://github.com/nikdjem/tablepress-responsive)  
   _A lightweight WordPress plugin that makes TablePress tables mobile-friendly by converting them into a stacked, responsive layout._
 
-- **Footer Caroussel** (https://github.com/nikdjem/PDF-Carousel-Footer-WordPress-Plugin) 
+- [**Footer Caroussel**](https://github.com/nikdjem/PDF-Carousel-Footer-WordPress-Plugin) 
   _A fresh WordPress plugin to add a dynamic, customizable carousel to your site’s footer. Stay tuned!_
 
 ---
@@ -28,6 +28,9 @@ I'm a passionate junior developer with a love for all things **WordPress**—fro
 ### 🗂 Other Projects
 
 - [Pricing Panel](https://github.com/nikdjem/pricing_panel)
+- [Metalenergy Ltd](https://metalenergy.bg)
+- [Maxximmo.eu](https://maxximmo.eu)
+- [Prevodi BG](https://prevodi-bg.bg) 
 
 ---
 
