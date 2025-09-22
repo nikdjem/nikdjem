@@ -23,6 +23,9 @@ I'm a passionate junior developer with a love for all things **WordPress**—fro
 - [**PDF Footer Caroussel**](https://github.com/nikdjem/PDF-Carousel-Footer-WordPress-Plugin)<br> 
   _A fresh WordPress plugin to add a dynamic, customizable carousel to your site’s footer._
 
+- [**WooCommerce Field Remover**](https://github.com/nikdjem/woocommerce_field_remover_plugin)<br>
+  _A lightweight and efficient WordPress plugin that removes unnecessary checkout fields from your WooCommerce store._
+
 ---
 
 ### 🗂 Other Projects
