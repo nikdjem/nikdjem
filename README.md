@@ -26,6 +26,9 @@ I'm a passionate junior developer with a love for all things **WordPress**—fro
 - [**WooCommerce Field Remover**](https://github.com/nikdjem/woocommerce_field_remover_plugin)<br>
   _A lightweight and efficient WordPress plugin that removes unnecessary checkout fields from your WooCommerce store._
 
+- [**Barcode Generator & Reader**](https://github.com/nikdjem/barcode-generator-reader)<br>
+ _ A modern, user-friendly web application for generating barcodes from text and decoding barcode images back to text. 100% standalone - no installation required!
+
 ---
 
 ### 🗂 Other Projects
