@@ -28,6 +28,9 @@ I'm a passionate junior developer with a love for all things **WordPress**—fro
 
 - [**Barcode Generator & Reader**](https://github.com/nikdjem/barcode-generator-reader)<br>
    A modern, user-friendly web application for generating barcodes from text and decoding barcode images back to text. 100% standalone - no installation required!
+  
+- [**Loan Calculator**](https://github.com/nikdjem/Loan-calculator)<br>
+  A modern, responsive loan calculator web application that helps you calculate loan payments and view detailed repayment schedules. Built with HTML, CSS, and JavaScript.
 
 ---
 
