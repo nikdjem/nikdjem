@@ -11,7 +11,7 @@ I'm a passionate junior developer with a love for all things **WordPress**—fro
 - **🔧 Tech Stack:** WordPress, PHP, JavaScript, CSS, HTML
 - **🤖 Favorite Tools:** VS Code, Git, Cursor, Claude, ChatGPT
 - **🌊 Hobbies:** Sailing and exploring the open waters
-- **🤝 Volunteer:** WordPress contributor & community supporter
+- **🤝 Volunteer:** WordCamp Volunteer & Community Supporter
 
 ---
 
