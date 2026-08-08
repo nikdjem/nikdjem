@@ -40,8 +40,6 @@ I'm a passionate junior developer with a love for all things **WordPress**—fro
   _A Frontend Mentor Challenge
 - [Metalenergy Ltd](https://metalenergy.bg)<br>
   _Redesign, custom plugin
-- [Maxximmo.eu](https://maxximmo.eu)<br>
-  _New baked website
 - [Prevodi BG](https://prevodi-bg.bg)<br>
   _Redesign, custom plugin
 - [Social Links Profile](https://github.com/nikdjem/social-links-profile)<br>
