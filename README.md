@@ -44,7 +44,7 @@ I'm a passionate junior developer with a love for all things **WordPress**—fro
   _New baked website
 - [Prevodi BG](https://prevodi-bg.bg)<br>
   _Redesign, custom plugin
-- [Social Links Profile] (https://github.com/nikdjem/social-links-profile)<br>
+- [Social Links Profile](https://github.com/nikdjem/social-links-profile)<br>
 _A Frontend Mentor Challenge
 
 ---
