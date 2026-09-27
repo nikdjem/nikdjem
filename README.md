@@ -18,7 +18,7 @@ I'm a passionate junior developer with a love for all things **WordPress**—fro
 ### 🌟 Featured Projects
 
 - [**NIKWEB.EU Portfolio**](https://github.com/nikdjem/nikolay-portfolio)<br>
-  _Custom WordPress Full Site Editing (FSE) block theme for the NIKWEB.EU developer portfolio.
+    Custom WordPress Full Site Editing (FSE) block theme for the NIKWEB.EU developer portfolio.
 
 - [**TablePress Responsive**](https://github.com/nikdjem/tablepress-responsive)  
   _A lightweight WordPress plugin that makes TablePress tables mobile-friendly by converting them into a stacked, responsive layout._
